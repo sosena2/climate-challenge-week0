@@ -14,7 +14,7 @@ climate-challenge-week0/
 ├── .gitignore
 ├── requirements.txt
 ├── README.md
-├── data/                     
+├── data/
 │   └── kenya_clean.csv
 ├── notebooks/
 │   ├── __init__.py
